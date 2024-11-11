@@ -28,13 +28,13 @@ Glint Core combines several essential components into a single framework, offeri
 
 ## Installation
 
-1. Download the latest release of **Glint Core** from the [Releases](https://github.com/YourUsername/GlintCore/releases) page.
+1. Download the latest release of **Glint Core** from the [Releases](https://github.com/Eikemo-dev/glint-core/releases) page.
 2. Place the downloaded `.jar` file into your Minecraft `mods` folder.
-3. Ensure that you have the correct version of **Minecraft Forge** installed.
+3. Ensure that you have the correct version of **Minecraft Fabric** installed.
 
 ## Compatibility
 
-Glint Core is designed to be fully compatible with **Minecraft 1.x.x** and requires **Minecraft Forge**. It's recommended to keep Glint Core up-to-date, as it serves as a foundational component for other Glint mods and may require updates to work with newer features.
+Glint Core is designed to be fully compatible with **Minecraft 1.21.3** (and newer versions) and requires [**Minecraft Fabric**](https://fabricmc.net) and [**Fabric API**](https://modrinth.com/mod/fabric-api). It's recommended to keep Glint Core up-to-date, as it serves as a foundational component for other Glint mods and may require updates to work with newer features.
 
 ## Contributing
 
@@ -46,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For help or questions, please join our [community Discord](https://discord.gg/YourDiscordLink) or check the [Wiki](https://github.com/YourUsername/GlintCore/wiki) for guides and troubleshooting.
+For help or questions, please join our [community Discord](https://discord.gg/YxmVQgs2qg) or check the [Wiki](https://glint.eikemo.dev/wiki) for guides and troubleshooting.
 
 ---
 
